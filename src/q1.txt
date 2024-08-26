@@ -1,0 +1,2 @@
+ 5318 ?        S      0:00 sh -c mencoder tv:// -tv freq=535.25:normid=17:device=/dev/video0:buffersize=30:alsa:adevice=hw.1,0 -o /var/www/video/1168/535.25-2015.04.03-9-00-01.avi -ovc lavc -oac mp3lame -msglevel all=0
+ 5319 ?        Sl    39:07 mencoder tv:// -tv freq=535.25:normid=17:device=/dev/video0:buffersize=30:alsa:adevice=hw.1,0 -o /var/www/video/1168/535.25-2015.04.03-9-00-01.avi -ovc lavc -oac mp3lame -msglevel all=0
